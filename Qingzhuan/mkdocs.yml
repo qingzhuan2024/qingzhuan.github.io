@@ -1,0 +1,8 @@
+site_name: Survival Guide of QingShan Lake Junior College
+nav:
+    - INDEX: index.md
+    - TOOLS AND USE:
+        - TOOLS AND USE: tools/TOOLS AND USE.md
+        - ELECTRONIC TEXTBOOK: tools/ELECTRRONIC TEXTBOOK,BOOK FINDING GUIDE.md
+        - INFORMATION GATHERING: tools/INFORMATION GATHERING.md
+        - SELF-TAUGHT MATERIAL: tools/SELF-TAUGHT MATERIAL.md
